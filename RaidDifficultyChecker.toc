@@ -1,4 +1,4 @@
-## Interface: 110200
+## Interface: 120000, 120001
 ## Title: Raid Difficulty checker
 ## Title-ruRU: Проверка сложности рейда
 ## Author: Zehel Fenris
@@ -9,3 +9,4 @@
 # Your addon files
 Localization.lua
 RaidDifficultyChecker.lua
+
